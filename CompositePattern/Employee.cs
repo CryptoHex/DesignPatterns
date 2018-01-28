@@ -17,7 +17,7 @@ namespace CompositePattern
 
         public override void Print()
         {
-            Console.WriteLine($"{this.name} is a {this.position}");
+            Console.WriteLine($"    {this.name} is a {this.position}");
         }
     }
 }
