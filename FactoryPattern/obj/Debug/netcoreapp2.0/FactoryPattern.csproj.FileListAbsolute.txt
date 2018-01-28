@@ -1,0 +1,4 @@
+c:\users\mario\documents\visual studio 2017\Projects\DesignePatterns\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.csprojResolveAssemblyReference.cache
+c:\users\mario\documents\visual studio 2017\Projects\DesignePatterns\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.csproj.CoreCompileInputs.cache
+c:\users\mario\documents\visual studio 2017\Projects\DesignePatterns\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.AssemblyInfoInputs.cache
+c:\users\mario\documents\visual studio 2017\Projects\DesignePatterns\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.AssemblyInfo.cs
