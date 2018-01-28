@@ -5,5 +5,5 @@ Simple examples of various design patterns in the .NET Framework.
 # Implemented Design Pattern examples 
 
 <ul>
-  <li><a href="https://github.com/marioPavlov/DesignPatterns/tree/master/FactoryPattern">Factory Pattern</a></li>
+  <li><a href="https://github.com/marioPPavlov/DesignPatterns/tree/master/FactoryPattern">Factory Pattern</a></li>
 </ul>
