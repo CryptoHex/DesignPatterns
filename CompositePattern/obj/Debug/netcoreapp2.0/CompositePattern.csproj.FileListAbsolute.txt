@@ -1,0 +1,10 @@
+C:\Users\Mario\Documents\Visual Studio 2017\Projects\DesignPatterns\CompositePattern\bin\Debug\netcoreapp2.0\CompositePattern.deps.json
+C:\Users\Mario\Documents\Visual Studio 2017\Projects\DesignPatterns\CompositePattern\bin\Debug\netcoreapp2.0\CompositePattern.runtimeconfig.json
+C:\Users\Mario\Documents\Visual Studio 2017\Projects\DesignPatterns\CompositePattern\bin\Debug\netcoreapp2.0\CompositePattern.runtimeconfig.dev.json
+C:\Users\Mario\Documents\Visual Studio 2017\Projects\DesignPatterns\CompositePattern\bin\Debug\netcoreapp2.0\CompositePattern.dll
+C:\Users\Mario\Documents\Visual Studio 2017\Projects\DesignPatterns\CompositePattern\bin\Debug\netcoreapp2.0\CompositePattern.pdb
+C:\Users\Mario\Documents\Visual Studio 2017\Projects\DesignPatterns\CompositePattern\obj\Debug\netcoreapp2.0\CompositePattern.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\Visual Studio 2017\Projects\DesignPatterns\CompositePattern\obj\Debug\netcoreapp2.0\CompositePattern.AssemblyInfoInputs.cache
+C:\Users\Mario\Documents\Visual Studio 2017\Projects\DesignPatterns\CompositePattern\obj\Debug\netcoreapp2.0\CompositePattern.AssemblyInfo.cs
+C:\Users\Mario\Documents\Visual Studio 2017\Projects\DesignPatterns\CompositePattern\obj\Debug\netcoreapp2.0\CompositePattern.dll
+C:\Users\Mario\Documents\Visual Studio 2017\Projects\DesignPatterns\CompositePattern\obj\Debug\netcoreapp2.0\CompositePattern.pdb
