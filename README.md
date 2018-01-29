@@ -4,7 +4,7 @@ Simple examples of various design patterns in the .NET Framework.
 
 # Implemented Design Pattern examples 
 
-<p>Behavioral Patterns</p>
+Behavioral Patterns
 <ul>
   <li><a href="https://github.com/marioPPavlov/DesignPatterns/tree/master/StrategyPattern">Strategy</a></li>
 </ul>
