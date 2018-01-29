@@ -8,11 +8,11 @@ Behavioral Patterns
 <ul>
   <li><a href="https://github.com/marioPPavlov/DesignPatterns/tree/master/StrategyPattern">Strategy</a></li>
 </ul>
-<p>Creational Patterns</p>
+Creational Patterns
 <ul>
   <li><a href="https://github.com/marioPPavlov/DesignPatterns/tree/master/FactoryPattern">Factory</a></li>
 </ul>
-<p>Structural Patterns</p>
+Structural Patterns
 <ul>
   <li><a href="https://github.com/marioPPavlov/DesignPatterns/tree/master/StrategyPattern">Composite</a></li>
 </ul>
