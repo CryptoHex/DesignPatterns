@@ -1,0 +1,11 @@
+C:\Users\Mario\Documents\Visual Studio 2017\Projects\DesignPatterns\StrategyPattern\bin\Debug\netcoreapp2.0\StrategyPattern.deps.json
+C:\Users\Mario\Documents\Visual Studio 2017\Projects\DesignPatterns\StrategyPattern\bin\Debug\netcoreapp2.0\StrategyPattern.runtimeconfig.json
+C:\Users\Mario\Documents\Visual Studio 2017\Projects\DesignPatterns\StrategyPattern\bin\Debug\netcoreapp2.0\StrategyPattern.runtimeconfig.dev.json
+C:\Users\Mario\Documents\Visual Studio 2017\Projects\DesignPatterns\StrategyPattern\bin\Debug\netcoreapp2.0\StrategyPattern.dll
+C:\Users\Mario\Documents\Visual Studio 2017\Projects\DesignPatterns\StrategyPattern\bin\Debug\netcoreapp2.0\StrategyPattern.pdb
+C:\Users\Mario\Documents\Visual Studio 2017\Projects\DesignPatterns\StrategyPattern\obj\Debug\netcoreapp2.0\StrategyPattern.csprojResolveAssemblyReference.cache
+C:\Users\Mario\Documents\Visual Studio 2017\Projects\DesignPatterns\StrategyPattern\obj\Debug\netcoreapp2.0\StrategyPattern.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\Visual Studio 2017\Projects\DesignPatterns\StrategyPattern\obj\Debug\netcoreapp2.0\StrategyPattern.AssemblyInfoInputs.cache
+C:\Users\Mario\Documents\Visual Studio 2017\Projects\DesignPatterns\StrategyPattern\obj\Debug\netcoreapp2.0\StrategyPattern.AssemblyInfo.cs
+C:\Users\Mario\Documents\Visual Studio 2017\Projects\DesignPatterns\StrategyPattern\obj\Debug\netcoreapp2.0\StrategyPattern.dll
+C:\Users\Mario\Documents\Visual Studio 2017\Projects\DesignPatterns\StrategyPattern\obj\Debug\netcoreapp2.0\StrategyPattern.pdb
