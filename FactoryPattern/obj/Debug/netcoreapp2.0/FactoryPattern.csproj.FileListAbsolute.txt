@@ -2,3 +2,14 @@ c:\users\mario\documents\visual studio 2017\Projects\DesignePatterns\FactoryPatt
 c:\users\mario\documents\visual studio 2017\Projects\DesignePatterns\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.csproj.CoreCompileInputs.cache
 c:\users\mario\documents\visual studio 2017\Projects\DesignePatterns\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.AssemblyInfoInputs.cache
 c:\users\mario\documents\visual studio 2017\Projects\DesignePatterns\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.AssemblyInfo.cs
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\FactoryPattern\bin\Debug\netcoreapp2.0\FactoryPattern.deps.json
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\FactoryPattern\bin\Debug\netcoreapp2.0\FactoryPattern.runtimeconfig.json
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\FactoryPattern\bin\Debug\netcoreapp2.0\FactoryPattern.runtimeconfig.dev.json
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\FactoryPattern\bin\Debug\netcoreapp2.0\FactoryPattern.dll
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\FactoryPattern\bin\Debug\netcoreapp2.0\FactoryPattern.pdb
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.csprojResolveAssemblyReference.cache
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.AssemblyInfoInputs.cache
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.AssemblyInfo.cs
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.dll
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.pdb

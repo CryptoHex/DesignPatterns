@@ -8,3 +8,4 @@ C:\Users\Mario\Documents\Visual Studio 2017\Projects\DesignPatterns\CompositePat
 C:\Users\Mario\Documents\Visual Studio 2017\Projects\DesignPatterns\CompositePattern\obj\Debug\netcoreapp2.0\CompositePattern.AssemblyInfo.cs
 C:\Users\Mario\Documents\Visual Studio 2017\Projects\DesignPatterns\CompositePattern\obj\Debug\netcoreapp2.0\CompositePattern.dll
 C:\Users\Mario\Documents\Visual Studio 2017\Projects\DesignPatterns\CompositePattern\obj\Debug\netcoreapp2.0\CompositePattern.pdb
+C:\Users\Mario\Documents\Visual Studio 2017\Projects\DesignPatterns\CompositePattern\obj\Debug\netcoreapp2.0\CompositePattern.csprojResolveAssemblyReference.cache

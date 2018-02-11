@@ -1,9 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27130.2010
+VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryPattern", "FactoryPattern\FactoryPattern.csproj", "{144FB761-D401-431B-AB8C-038903A7ED9A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactoryPattern", "FactoryPattern\FactoryPattern.csproj", "{144FB761-D401-431B-AB8C-038903A7ED9A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompositePattern", "CompositePattern\CompositePattern.csproj", "{419D4C1F-5D63-4C9A-9074-7CFC3F2A9CB8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StrategyPattern", "StrategyPattern\StrategyPattern.csproj", "{B6BBDD27-1822-43AE-9BCB-0BEE1696A20F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacadePattern", "FacadePattern\FacadePattern.csproj", "{82F8C660-9C45-48AB-9643-58D2094FA855}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{144FB761-D401-431B-AB8C-038903A7ED9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{144FB761-D401-431B-AB8C-038903A7ED9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{144FB761-D401-431B-AB8C-038903A7ED9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{419D4C1F-5D63-4C9A-9074-7CFC3F2A9CB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{419D4C1F-5D63-4C9A-9074-7CFC3F2A9CB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{419D4C1F-5D63-4C9A-9074-7CFC3F2A9CB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{419D4C1F-5D63-4C9A-9074-7CFC3F2A9CB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6BBDD27-1822-43AE-9BCB-0BEE1696A20F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6BBDD27-1822-43AE-9BCB-0BEE1696A20F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6BBDD27-1822-43AE-9BCB-0BEE1696A20F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6BBDD27-1822-43AE-9BCB-0BEE1696A20F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82F8C660-9C45-48AB-9643-58D2094FA855}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82F8C660-9C45-48AB-9643-58D2094FA855}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82F8C660-9C45-48AB-9643-58D2094FA855}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82F8C660-9C45-48AB-9643-58D2094FA855}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

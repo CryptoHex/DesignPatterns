@@ -1,0 +1,11 @@
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\FacadePattern\obj\Debug\netcoreapp2.0\FacadePattern.csprojResolveAssemblyReference.cache
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\FacadePattern\obj\Debug\netcoreapp2.0\FacadePattern.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\FacadePattern\obj\Debug\netcoreapp2.0\FacadePattern.AssemblyInfoInputs.cache
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\FacadePattern\obj\Debug\netcoreapp2.0\FacadePattern.AssemblyInfo.cs
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\FacadePattern\bin\Debug\netcoreapp2.0\FacadePattern.deps.json
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\FacadePattern\bin\Debug\netcoreapp2.0\FacadePattern.runtimeconfig.json
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\FacadePattern\bin\Debug\netcoreapp2.0\FacadePattern.runtimeconfig.dev.json
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\FacadePattern\bin\Debug\netcoreapp2.0\FacadePattern.dll
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\FacadePattern\bin\Debug\netcoreapp2.0\FacadePattern.pdb
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\FacadePattern\obj\Debug\netcoreapp2.0\FacadePattern.dll
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\FacadePattern\obj\Debug\netcoreapp2.0\FacadePattern.pdb
