@@ -15,4 +15,5 @@ Creational Patterns
 Structural Patterns
 <ul>
   <li><a href="https://github.com/marioPPavlov/DesignPatterns/tree/master/CompositePattern">Composite</a></li>
+  <li><a href="https://github.com/marioPPavlov/DesignPatterns/tree/master/FacadePattern">Facade</a></li>
 </ul>
