@@ -1,0 +1,10 @@
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\SingletonPattern\bin\Debug\netcoreapp2.0\SingletonPattern.deps.json
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\SingletonPattern\bin\Debug\netcoreapp2.0\SingletonPattern.runtimeconfig.json
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\SingletonPattern\bin\Debug\netcoreapp2.0\SingletonPattern.runtimeconfig.dev.json
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\SingletonPattern\bin\Debug\netcoreapp2.0\SingletonPattern.dll
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\SingletonPattern\bin\Debug\netcoreapp2.0\SingletonPattern.pdb
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\SingletonPattern\obj\Debug\netcoreapp2.0\SingletonPattern.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\SingletonPattern\obj\Debug\netcoreapp2.0\SingletonPattern.AssemblyInfoInputs.cache
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\SingletonPattern\obj\Debug\netcoreapp2.0\SingletonPattern.AssemblyInfo.cs
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\SingletonPattern\obj\Debug\netcoreapp2.0\SingletonPattern.dll
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\SingletonPattern\obj\Debug\netcoreapp2.0\SingletonPattern.pdb
