@@ -6,6 +6,7 @@ Simple examples of various design patterns in the .NET Framework.
 
 Behavioral Patterns
 <ul>
+  <li><a href="https://github.com/marioPPavlov/DesignPatterns/tree/master/ChainOfResponsibilityPattern">Chain Of Responsibility</a></li>
   <li><a href="https://github.com/marioPPavlov/DesignPatterns/tree/master/ObserverPattern">Observer</a></li>
   <li><a href="https://github.com/marioPPavlov/DesignPatterns/tree/master/StrategyPattern">Strategy</a></li>
 </ul>
