@@ -1,0 +1,11 @@
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\BuilderPattern\bin\Debug\netcoreapp2.0\BuilderPattern.deps.json
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\BuilderPattern\bin\Debug\netcoreapp2.0\BuilderPattern.runtimeconfig.json
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\BuilderPattern\bin\Debug\netcoreapp2.0\BuilderPattern.runtimeconfig.dev.json
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\BuilderPattern\bin\Debug\netcoreapp2.0\BuilderPattern.dll
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\BuilderPattern\bin\Debug\netcoreapp2.0\BuilderPattern.pdb
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\BuilderPattern\obj\Debug\netcoreapp2.0\BuilderPattern.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\BuilderPattern\obj\Debug\netcoreapp2.0\BuilderPattern.AssemblyInfoInputs.cache
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\BuilderPattern\obj\Debug\netcoreapp2.0\BuilderPattern.AssemblyInfo.cs
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\BuilderPattern\obj\Debug\netcoreapp2.0\BuilderPattern.dll
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\BuilderPattern\obj\Debug\netcoreapp2.0\BuilderPattern.pdb
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\BuilderPattern\obj\Debug\netcoreapp2.0\BuilderPattern.csprojResolveAssemblyReference.cache
