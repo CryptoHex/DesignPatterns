@@ -12,8 +12,9 @@ Behavioral Patterns
 </ul>
 Creational Patterns
 <ul>
+  <li><a href="https://github.com/marioPPavlov/DesignPatterns/tree/master/BuilderPattern">Builder</a></li>
   <li><a href="https://github.com/marioPPavlov/DesignPatterns/tree/master/FactoryPattern">Factory</a></li>
-    <li><a href="https://github.com/marioPPavlov/DesignPatterns/tree/master/SingletonPattern">Singleton</a></li>
+  <li><a href="https://github.com/marioPPavlov/DesignPatterns/tree/master/SingletonPattern">Singleton</a></li>
 </ul>
 Structural Patterns
 <ul>
