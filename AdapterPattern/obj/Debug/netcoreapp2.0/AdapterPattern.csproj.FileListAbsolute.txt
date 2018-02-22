@@ -1,0 +1,10 @@
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\AdapterPattern\bin\Debug\netcoreapp2.0\AdapterPattern.deps.json
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\AdapterPattern\bin\Debug\netcoreapp2.0\AdapterPattern.runtimeconfig.json
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\AdapterPattern\bin\Debug\netcoreapp2.0\AdapterPattern.runtimeconfig.dev.json
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\AdapterPattern\bin\Debug\netcoreapp2.0\AdapterPattern.dll
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\AdapterPattern\bin\Debug\netcoreapp2.0\AdapterPattern.pdb
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\AdapterPattern\obj\Debug\netcoreapp2.0\AdapterPattern.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\AdapterPattern\obj\Debug\netcoreapp2.0\AdapterPattern.AssemblyInfoInputs.cache
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\AdapterPattern\obj\Debug\netcoreapp2.0\AdapterPattern.AssemblyInfo.cs
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\AdapterPattern\obj\Debug\netcoreapp2.0\AdapterPattern.dll
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\AdapterPattern\obj\Debug\netcoreapp2.0\AdapterPattern.pdb

@@ -11,9 +11,7 @@ namespace DecoratorPattern
         }
 
         protected override int DamageModifier => 1;
-
         protected override int DurabilityModifier => 1;
-
         protected override string DescriptionModifier => "Reinforced";
     }
 }

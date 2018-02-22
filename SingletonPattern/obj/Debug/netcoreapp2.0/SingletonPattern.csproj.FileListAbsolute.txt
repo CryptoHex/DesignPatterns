@@ -8,3 +8,4 @@ C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\SingletonPat
 C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\SingletonPattern\obj\Debug\netcoreapp2.0\SingletonPattern.AssemblyInfo.cs
 C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\SingletonPattern\obj\Debug\netcoreapp2.0\SingletonPattern.dll
 C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\SingletonPattern\obj\Debug\netcoreapp2.0\SingletonPattern.pdb
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\SingletonPattern\obj\Debug\netcoreapp2.0\SingletonPattern.csprojResolveAssemblyReference.cache

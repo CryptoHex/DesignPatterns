@@ -1,0 +1,11 @@
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\PrototypePattern\bin\Debug\netcoreapp2.0\PrototypePattern.deps.json
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\PrototypePattern\bin\Debug\netcoreapp2.0\PrototypePattern.runtimeconfig.json
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\PrototypePattern\bin\Debug\netcoreapp2.0\PrototypePattern.runtimeconfig.dev.json
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\PrototypePattern\bin\Debug\netcoreapp2.0\PrototypePattern.dll
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\PrototypePattern\bin\Debug\netcoreapp2.0\PrototypePattern.pdb
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\PrototypePattern\obj\Debug\netcoreapp2.0\PrototypePattern.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\PrototypePattern\obj\Debug\netcoreapp2.0\PrototypePattern.AssemblyInfoInputs.cache
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\PrototypePattern\obj\Debug\netcoreapp2.0\PrototypePattern.AssemblyInfo.cs
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\PrototypePattern\obj\Debug\netcoreapp2.0\PrototypePattern.dll
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\PrototypePattern\obj\Debug\netcoreapp2.0\PrototypePattern.pdb
+C:\Users\Mario\Documents\visual studio 2017\Projects\DesignPatterns\PrototypePattern\obj\Debug\netcoreapp2.0\PrototypePattern.csprojResolveAssemblyReference.cache
