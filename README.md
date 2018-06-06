@@ -1,6 +1,6 @@
 # DesignPatterns
 Examples of Design Patterns in C#
-Simple examples of various design patterns in the .NET Framework.
+Simple examples of various design patterns in the .NET Framework shown in easy to understand console application format.
 
 # Implemented Design Pattern examples 
 
